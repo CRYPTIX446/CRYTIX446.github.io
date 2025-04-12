@@ -1,0 +1,45 @@
+.chapter-divider {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: gold;
+  margin: 40px 0;
+  border-top: 3px solid gold;
+  border-bottom: 3px solid gold;
+  padding: 20px 0;
+  background-color: #111;
+}/* To Be Continued Divider Style */
+.to-be-continued {
+  text-align: center;
+  margin: 50px 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.to-be-continued h2 {
+  font-size: 3rem;
+  color: #ff4500;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}/* To Be Continued Divider Style */
+.to-be-continued {
+  text-align: center;
+  margin: 50px 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.to-be-continued h2 {
+  font-size: 3rem;
+  color: #ff4500;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
